@@ -1,0 +1,11 @@
+/**
+ * This code snippet demonstrates the installation and setup process for a Python Flask server.
+ * 
+ * To install the required packages, follow these steps:
+ * 1. Create a virtual environment by running the command: python3 -m venv env
+ * 2. Activate the virtual environment by running the command: source env/bin/activate
+ * 3. Install the required packages by running the command: python3 -m pip install -r requirements.txt
+ * 
+ * To run the server, execute the following command:
+ * flask run
+ */
